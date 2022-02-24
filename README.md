@@ -1,1 +1,1 @@
-# inventory
+# inventory for Rak-net samp 
